@@ -1,5 +1,6 @@
-### Hi there 👋
-<h3>Hi,I'm DAE WOONG LEE<h3>
+              ### Hi there 👋
+            My name is Lee Dae Woong
+            I am a backend developer
 
 
 - 🔭 I’m currently working on ...
