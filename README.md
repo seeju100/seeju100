@@ -1,5 +1,5 @@
          
- (https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+ <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
          ### Hi there 👋                E-Mail:eodnddl23@naver.com    phone: 010-8572-7789
             My name is Lee Dae Woong           
             I am a backend developer
