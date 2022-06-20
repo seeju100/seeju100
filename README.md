@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-<!--
-**seeju100/seeju100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h3>Hi,I'm DAE WOONG LEE<h3>
 
 
@@ -15,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
