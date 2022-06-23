@@ -10,7 +10,7 @@
              
                   
 
-<h3>💪Every Day 1Commit</h3>
+<h3>💪Trying to upload a commit a day regularl</h3>
 <h4>:fire:About Me</h4>
          :mortar_board: 경성대학교_정보통신공학과 <br>       
          :computer: E-mail: eodnddl23@naver.com <br>   
